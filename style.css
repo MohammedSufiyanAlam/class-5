@@ -1,0 +1,23 @@
+#one1{
+    text-align:center;
+    width:200px;
+    background-color:rgb(221, 168, 9);
+    padding: 20px 10px 20px;}
+
+#two2{
+    text-align: justify;
+    width:200px;
+    background-color: rgb(105, 84, 52);
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+
+#three3{
+    text-align: center;
+    background-color: brown;
+    text-decoration: line-through;
+}
